@@ -1,0 +1,23 @@
+.menu{
+
+    background: #2f204b ;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding: 20px;
+
+}
+
+
+
+.Menu a {
+
+    color:#f1e5e5;
+
+    margin: 20px;
+
+    text-decoration: none;
+
+}
